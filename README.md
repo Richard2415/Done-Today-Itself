@@ -6,31 +6,21 @@
 
   add goal by with title, description and 5 labels to choose from.
 
-  <img src="/.github/images/add-goal.png">
-
 - #### Start/pause timer
 
   Start the timer as you start to work towards your goal. you may close the browser or even turn off the computer and the timer will still be running when you come back. However you may pause the timer whenever you want.
-
-  <img src="/.github/images/timer.png">
 
 - #### Edit goal
 
   Edit goals by modifying the title, description and labels.
 
-  <img src="/.github/images/edit-mode.png">
-
 - #### Filter Goals
 
   Filter goals by text and/or labels
 
-  <img src="/.github/images/filter.png">
-
 - #### Visualize your goals
 
   See a visual representation of how much you spent for every goal.
-
-  <img src="/.github/images/chart.png">
 
 - #### Dark mode
 
