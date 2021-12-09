@@ -133,7 +133,7 @@ function App(props) {
       _id: uuidv4(),
       name: "Eat breakfast",
       description:
-        "buy oatmeal, tea and dried rose petals from the local grocery store",
+        "buy oatmeal, Greentea and dry fruits from the local grocery store",
       timeAdded: new Date(),
       duration: 1000,
       isActive: false,
@@ -144,8 +144,8 @@ function App(props) {
     },
     {
       _id: uuidv4(),
-      name: "Win hackathon",
-      description: "Make best task planner app ever",
+      name: "Task Completion",
+      description: "Last day to submit the task",
       timeAdded: new Date(),
       duration: 2000,
       isActive: false,
